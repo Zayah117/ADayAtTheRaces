@@ -1,0 +1,9 @@
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe.config
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.pdb
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csprojResolveAssemblyReference.cache
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Form1.resources
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Properties.Resources.resources
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.GenerateResource.Cache
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.exe
+C:\Users\Isaiah\Desktop\Visual Studio Stuff\Head First C#\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.pdb
